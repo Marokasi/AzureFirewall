@@ -5,6 +5,9 @@
     "adminUsername": {
       "value": "YOUR-USERNAME"
     },
+      "adminPassword": {
+        "value": "string"
+      },
      "IPRange": {
       "value": "192.168"
     }
